@@ -6,7 +6,7 @@ une application de console pour gérer vos tâches.
 # fonctionnalite a implemente
 [x] creation de la base de donnee
 [x] connexion et test
-[ ] inscription,connexion,deconnexion
+[x] inscription,connexion,deconnexion
 [ ] affichage
 [ ] creation,modification,suppression des taches
 [ ] filtre, recherche
