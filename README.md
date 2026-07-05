@@ -4,8 +4,8 @@ une application de console pour gérer vos tâches.
 -Python
 -Mysql
 # fonctionnalite a implemente
-[ ] creation de la base de donnee
-[ ] connexion et test
+[] creation de la base de donnee
+[] connexion et test
 [ ] inscription,connexion,deconnexion
 [ ] affichage
 [ ] creation,modification,suppression des taches
